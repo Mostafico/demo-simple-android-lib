@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    Greeting(Sydney.suburbs[0])
+                    Greeting(Sydney.suburbs[2])
                 }
             }
         }
